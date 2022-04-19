@@ -1,10 +1,10 @@
 ---
-title:linux_2
-categories: 
+title: linux_2
+categories:
   - linux
-tags: 
+tags:
   - 心得
-date: 2022-04-06 09:33:40
+date: 2022-04-07 13:48:40
 ---
 
 # linux_2

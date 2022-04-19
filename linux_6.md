@@ -1,10 +1,10 @@
 ---
-title:linux_6
-categories: 
+title: linux_6
+categories:
   - linux
-tags: 
+tags:
   - 心得
-date: 2022-04-03 16:13:40
+date: 2022-04-01 12:33:40
 ---
 
 # linux_6

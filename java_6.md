@@ -1,10 +1,10 @@
 ---
-title:java_6
-categories: 
+title: java_6
+categories:
   - java
-tags: 
+tags:
   - 笔记
-date: 2022-04-06 00:33:40
+date: 2022-04-02 02:48:40
 ---
 
 # java_6

@@ -1,10 +1,10 @@
 ---
-title:linux_5
-categories: 
+title: linux_5
+categories:
   - linux
-tags: 
+tags:
   - 心得
-date: 2022-04-12 09:50:20
+date: 2022-04-04 11:12:00
 ---
 
 # linux_5

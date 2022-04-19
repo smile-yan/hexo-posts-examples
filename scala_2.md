@@ -1,10 +1,10 @@
 ---
-title:scala_2
-categories: 
+title: scala_2
+categories:
   - scala
-tags: 
+tags:
   - 随笔
-date: 2022-04-15 21:15:20
+date: 2022-04-10 04:38:40
 ---
 
 # scala_2

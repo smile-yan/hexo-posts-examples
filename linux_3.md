@@ -1,10 +1,10 @@
 ---
-title:linux_3
-categories: 
+title: linux_3
+categories:
   - linux
-tags: 
+tags:
   - 心得
-date: 2022-04-15 01:58:40
+date: 2022-04-15 02:35:20
 ---
 
 # linux_3

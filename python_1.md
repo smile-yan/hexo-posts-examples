@@ -1,10 +1,10 @@
 ---
-title:python_1
-categories: 
+title: python_1
+categories:
   - python
-tags: 
+tags:
   - 示例
-date: 2022-04-12 04:58:40
+date: 2022-04-13 01:22:00
 ---
 
 # python_1
